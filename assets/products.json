@@ -1,0 +1,74 @@
+[
+    {
+        "productID": 1,
+        "productName": "Makeup-Brush",
+        "productType": "Brush",
+        "productPrice": 5000,
+        "productMDate": "2021,5,21",
+        "productImageUrl": "https://ae01.alicdn.com/kf/HTB1hj8GKXmWBuNjSspdq6zugXXaq/Makeup-Brush-Wooden-Foundation-Cosmetic-Single-Powder-Makeup-Brush-Makeup-Brush-Tools-P-824.jpg",
+        "productRating":4.4
+      },
+      {
+        "productID": 2,
+        "productName": "Himalaya Neem Face Wash",
+        "productType": "FaceWash",
+        "productPrice": 250,
+        "productMDate": "2021,8,12",
+        "productImageUrl":"https://www.jungle.lk/wp-content/uploads/2018/06/Himalaya-Purifying-Neem-Face-Wash-50ml.jpg",
+        "productRating":3.2
+      },
+      {
+        "productID": 3,
+        "productName": "Face-Primer",
+        "productType": "FacePrimer",
+        "productPrice": 1000,
+        "productMDate": "2021,4,30",
+        "productImageUrl": "https://www.elfcosmetics.co.uk/dw/image/v2/BBXC_PRD/on/demandware.static/-/Sites-elf-master/default/dwadb5e88c/83404_IlluminatingFacePrimerShortA.jpg?sfrm=png",
+        "productRating":2.5
+      },
+      {
+        "productID": 4,
+        "productName": "lakme lipstick 9 to 5",
+        "productType": "Lipstick",
+        "productPrice": 500,
+        "productMDate": "2021,2,22",
+        "productImageUrl":"https://images-static.nykaa.com/media/catalog/product/tr:h-800,w-800,cm-pad_resize/2/4/24864_s1-8901030794827.jpg",
+        "productRating":4.5
+      },
+      {
+        "productID": 5,
+        "productName": "Clean & Clear Toner",
+        "productType": "Toner",
+        "productPrice": 300,
+        "productMDate": "2021,3,27",
+        "productImageUrl": "https://i5.walmartimages.com/asr/392c6437-e42d-485b-8823-026824804e24_1.ae2f07dac02cbb6f7edd433925b0b9e6.jpeg",
+        "productRating":3
+      },
+      {
+        "productID": 6,
+        "productName": "Tresemme Shampoo",
+        "productType": "Shampoo",
+        "productPrice": 750,
+        "productMDate": "2021,1,12",
+        "productImageUrl":"https://www.tresemme.com/content/dam/unilever/tresemme/india/pack_shot/front/hair_care/wash_and_care/tresemme_shampoo_keratin_smooth_580_ml/tres_in_keratin_smooth_shampoo_580ml-fop-792447.png",
+        "productRating":1.6
+      },
+      {
+        "productID": 7,
+        "productName": "Menow Makeup Face Powder",
+        "productType": "Powder",
+        "productPrice": 400,
+        "productMDate": "2021,10,11",
+        "productImageUrl": "https://ae01.alicdn.com/kf/HTB1XCZGnlHH8KJjy0Fbq6AqlpXat/Menow-Brand-New-Makeup-Face-Powder-Matte-Moisturizing-Facial-Whitening-Complexion-Transparent-Powder-Makeup-Powder-L1311.jpg",
+        "productRating":2
+      },
+      {
+        "productID": 8,
+        "productName": "Infusionz Salve Lotion",
+        "productType": "Lotion",
+        "productPrice": 930,
+        "productMDate": "2021,8,12",
+        "productImageUrl":"https://silverleafwellness.com/wp-content/uploads/2019/02/Infusionz-Salve-Unscented-Lotion-FSO-500mg2-e1551378372711.jpg",
+        "productRating":3.4
+      }
+]
